@@ -7,11 +7,11 @@ function subtruct(a,b) {
 }
 
 function multiply(a,b){
-  multiply a*b;
+  multiply; a*b;
 }
 
 function divide (a,b){
-  divide a/b;
+  divide; a/b;
 }
 
 
